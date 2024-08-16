@@ -239,26 +239,6 @@
 					"message": "This is a great hotel with excellent service."
 				}
 			]
-		},
-		{
-			"id": "6655",
-			"property_name": "Sample",
-			"property_location": "sample",
-			"property_description": "sample",
-			"property_geo_data": "sample",
-			"property_default_photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/5b/80/34/die-lodge.jpg",
-			"property_photos": [
-				"1",
-				"1",
-				"1"
-			],
-			"property_suite": [
-				{
-					"premium": "1",
-					"upper": "1",
-					"lower": "1"
-				}
-			]
 		}
 	]
 }
