@@ -1,0 +1,264 @@
+{
+	"destinations": [
+		{
+			"id": "1",
+			"property_name": "Hotel 1",
+			"property_location": "Voi",
+			"property_category": "Hotel",
+			"property_description": "A beautiful hotel with excellent amenities.",
+			"property_geo_data": "Nairobi, Kenya",
+			"property_default_photo": "https://images.unsplash.com/photo-1445991842772-097fea258e7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NDQxNTd8MHwxfHNlYXJjaHwxfHxob3RlbHxlbnwwfHx8fDE3MjM3OTQxMTZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+			"property_photos": [
+				"https://images.unsplash.com/photo-1445991842772-097fea258e7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NDQxNTd8MHwxfHNlYXJjaHwxfHxob3RlbHxlbnwwfHx8fDE3MjM3OTQxMTZ8MA&ixlib=rb-4.0.3&q=80&w=1080"
+			],
+			"property_suites": {
+				"premium": "£400",
+				"upper": "£250",
+				"normal": "£150"
+			},
+			"reviews": [
+				{
+					"id": 1723794116645,
+					"user": "user@example.com",
+					"message": "This is a great hotel with excellent service."
+				}
+			]
+		},
+		{
+			"id": "2",
+			"property_name": "Hotel 2",
+			"property_location": "Nairobi",
+			"property_category": "Hotel",
+			"property_description": "A beautiful hotel with excellent amenities.",
+			"property_geo_data": "Nairobi, Kenya",
+			"property_default_photo": "https://images.unsplash.com/photo-1517840901100-8179e982acb7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NDQxNTd8MHwxfHNlYXJjaHwyfHxob3RlbHxlbnwwfHx8fDE3MjM3OTQxMTZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+			"property_photos": [
+				"https://images.unsplash.com/photo-1517840901100-8179e982acb7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NDQxNTd8MHwxfHNlYXJjaHwyfHxob3RlbHxlbnwwfHx8fDE3MjM3OTQxMTZ8MA&ixlib=rb-4.0.3&q=80&w=1080"
+			],
+			"property_suites": {
+				"premium": "£400",
+				"upper": "£250",
+				"normal": "£150"
+			},
+			"reviews": [
+				{
+					"id": 1723794116646,
+					"user": "user@example.com",
+					"message": "This is a great hotel with excellent service."
+				}
+			]
+		},
+		{
+			"id": "3",
+			"property_name": "Hotel 3",
+			"property_location": "Nairobi",
+			"property_category": "Hotel",
+			"property_description": "A beautiful hotel with excellent amenities.",
+			"property_geo_data": "Nairobi, Kenya",
+			"property_default_photo": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NDQxNTd8MHwxfHNlYXJjaHwzfHxob3RlbHxlbnwwfHx8fDE3MjM3OTQxMTZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+			"property_photos": [
+				"https://images.unsplash.com/photo-1445019980597-93fa8acb246c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NDQxNTd8MHwxfHNlYXJjaHwzfHxob3RlbHxlbnwwfHx8fDE3MjM3OTQxMTZ8MA&ixlib=rb-4.0.3&q=80&w=1080"
+			],
+			"property_suites": {
+				"premium": "£400",
+				"upper": "£250",
+				"normal": "£150"
+			},
+			"reviews": [
+				{
+					"id": 1723794116647,
+					"user": "user@example.com",
+					"message": "This is a great hotel with excellent service."
+				}
+			]
+		},
+		{
+			"id": "4",
+			"property_name": "Hotel 4",
+			"property_location": "Nairobi",
+			"property_category": "Hotel",
+			"property_description": "A beautiful hotel with excellent amenities.",
+			"property_geo_data": "Nairobi, Kenya",
+			"property_default_photo": "https://images.unsplash.com/photo-1455587734955-081b22074882?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NDQxNTd8MHwxfHNlYXJjaHw0fHxob3RlbHxlbnwwfHx8fDE3MjM3OTQxMTZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+			"property_photos": [
+				"https://images.unsplash.com/photo-1455587734955-081b22074882?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NDQxNTd8MHwxfHNlYXJjaHw0fHxob3RlbHxlbnwwfHx8fDE3MjM3OTQxMTZ8MA&ixlib=rb-4.0.3&q=80&w=1080"
+			],
+			"property_suites": {
+				"premium": "£400",
+				"upper": "£250",
+				"normal": "£150"
+			},
+			"reviews": [
+				{
+					"id": 1723794116648,
+					"user": "user@example.com",
+					"message": "This is a great hotel with excellent service."
+				}
+			]
+		},
+		{
+			"id": "5",
+			"property_name": "Hotel 5",
+			"property_location": "Nairobi",
+			"property_category": "Hotel",
+			"property_description": "A beautiful hotel with excellent amenities.",
+			"property_geo_data": "Nairobi, Kenya",
+			"property_default_photo": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NDQxNTd8MHwxfHNlYXJjaHw1fHxob3RlbHxlbnwwfHx8fDE3MjM3OTQxMTZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+			"property_photos": [
+				"https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NDQxNTd8MHwxfHNlYXJjaHw1fHxob3RlbHxlbnwwfHx8fDE3MjM3OTQxMTZ8MA&ixlib=rb-4.0.3&q=80&w=1080"
+			],
+			"property_suites": {
+				"premium": "£400",
+				"upper": "£250",
+				"normal": "£150"
+			},
+			"reviews": [
+				{
+					"id": 1723794116649,
+					"user": "user@example.com",
+					"message": "This is a great hotel with excellent service."
+				}
+			]
+		},
+		{
+			"id": "6",
+			"property_name": "Hotel 6",
+			"property_location": "Nairobi",
+			"property_category": "Hotel",
+			"property_description": "A beautiful hotel with excellent amenities.",
+			"property_geo_data": "Nairobi, Kenya",
+			"property_default_photo": "https://images.unsplash.com/photo-1549294413-26f195200c16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NDQxNTd8MHwxfHNlYXJjaHw2fHxob3RlbHxlbnwwfHx8fDE3MjM3OTQxMTZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+			"property_photos": [
+				"https://images.unsplash.com/photo-1549294413-26f195200c16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NDQxNTd8MHwxfHNlYXJjaHw2fHxob3RlbHxlbnwwfHx8fDE3MjM3OTQxMTZ8MA&ixlib=rb-4.0.3&q=80&w=1080"
+			],
+			"property_suites": {
+				"premium": "£400",
+				"upper": "£250",
+				"normal": "£150"
+			},
+			"reviews": [
+				{
+					"id": 1723794116650,
+					"user": "user@example.com",
+					"message": "This is a great hotel with excellent service."
+				}
+			]
+		},
+		{
+			"id": "7",
+			"property_name": "Hotel 7",
+			"property_location": "Nairobi",
+			"property_category": "Hotel",
+			"property_description": "A beautiful hotel with excellent amenities.",
+			"property_geo_data": "Nairobi, Kenya",
+			"property_default_photo": "https://images.unsplash.com/photo-1495365200479-c4ed1d35e1aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NDQxNTd8MHwxfHNlYXJjaHw3fHxob3RlbHxlbnwwfHx8fDE3MjM3OTQxMTZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+			"property_photos": [
+				"https://images.unsplash.com/photo-1495365200479-c4ed1d35e1aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NDQxNTd8MHwxfHNlYXJjaHw3fHxob3RlbHxlbnwwfHx8fDE3MjM3OTQxMTZ8MA&ixlib=rb-4.0.3&q=80&w=1080"
+			],
+			"property_suites": {
+				"premium": "£400",
+				"upper": "£250",
+				"normal": "£150"
+			},
+			"reviews": [
+				{
+					"id": 1723794116651,
+					"user": "user@example.com",
+					"message": "This is a great hotel with excellent service."
+				}
+			]
+		},
+		{
+			"id": "8",
+			"property_name": "Hotel 8",
+			"property_location": "Nairobi",
+			"property_category": "Hotel",
+			"property_description": "A beautiful hotel with excellent amenities.",
+			"property_geo_data": "Nairobi, Kenya",
+			"property_default_photo": "https://images.unsplash.com/photo-1518733057094-95b53143d2a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NDQxNTd8MHwxfHNlYXJjaHw4fHxob3RlbHxlbnwwfHx8fDE3MjM3OTQxMTZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+			"property_photos": [
+				"https://images.unsplash.com/photo-1518733057094-95b53143d2a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NDQxNTd8MHwxfHNlYXJjaHw4fHxob3RlbHxlbnwwfHx8fDE3MjM3OTQxMTZ8MA&ixlib=rb-4.0.3&q=80&w=1080"
+			],
+			"property_suites": {
+				"premium": "£400",
+				"upper": "£250",
+				"normal": "£150"
+			},
+			"reviews": [
+				{
+					"id": 1723794116652,
+					"user": "user@example.com",
+					"message": "This is a great hotel with excellent service."
+				}
+			]
+		},
+		{
+			"id": "9",
+			"property_name": "Hotel 9",
+			"property_location": "Nairobi",
+			"property_category": "Hotel",
+			"property_description": "A beautiful hotel with excellent amenities.",
+			"property_geo_data": "Nairobi, Kenya",
+			"property_default_photo": "https://images.unsplash.com/photo-1444201983204-c43cbd584d93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NDQxNTd8MHwxfHNlYXJjaHw5fHxob3RlbHxlbnwwfHx8fDE3MjM3OTQxMTZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
+			"property_photos": [
+				"https://images.unsplash.com/photo-1444201983204-c43cbd584d93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NDQxNTd8MHwxfHNlYXJjaHw5fHxob3RlbHxlbnwwfHx8fDE3MjM3OTQxMTZ8MA&ixlib=rb-4.0.3&q=80&w=1080"
+			],
+			"property_suites": {
+				"premium": "£400",
+				"upper": "£250",
+				"normal": "£150"
+			},
+			"reviews": [
+				{
+					"id": 1723794116653,
+					"user": "user@example.com",
+					"message": "This is a great hotel with excellent service."
+				}
+			]
+		},
+		{
+			"id": "10",
+			"property_name": "Hotel 10",
+			"property_location": "Nairobi",
+			"property_category": "Hotel",
+			"property_description": "A beautiful hotel with excellent amenities.",
+			"property_geo_data": "Nairobi, Kenya",
+			"property_default_photo": "https://images.unsplash.com/photo-1529290130-4ca3753253ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NDQxNTd8MHwxfHNlYXJjaHwxMHx8aG90ZWx8ZW58MHx8fHwxNzIzNzk0MTE2fDA&ixlib=rb-4.0.3&q=80&w=1080",
+			"property_photos": [
+				"https://images.unsplash.com/photo-1529290130-4ca3753253ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2NDQxNTd8MHwxfHNlYXJjaHwxMHx8aG90ZWx8ZW58MHx8fHwxNzIzNzk0MTE2fDA&ixlib=rb-4.0.3&q=80&w=1080"
+			],
+			"property_suites": {
+				"premium": "£400",
+				"upper": "£250",
+				"normal": "£150"
+			},
+			"reviews": [
+				{
+					"id": 1723794116654,
+					"user": "user@example.com",
+					"message": "This is a great hotel with excellent service."
+				}
+			]
+		},
+		{
+			"id": "6655",
+			"property_name": "Sample",
+			"property_location": "sample",
+			"property_description": "sample",
+			"property_geo_data": "sample",
+			"property_default_photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/5b/80/34/die-lodge.jpg",
+			"property_photos": [
+				"1",
+				"1",
+				"1"
+			],
+			"property_suite": [
+				{
+					"premium": "1",
+					"upper": "1",
+					"lower": "1"
+				}
+			]
+		}
+	]
+}
